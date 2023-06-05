@@ -1,5 +1,5 @@
 Module Name: ec2-instance-spin
-Author: Kennedy N
+Author: vanessa feutsa
 
 
 Disclaimer: This module employs a module in its implementation
